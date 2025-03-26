@@ -1,0 +1,1 @@
+A full-stack web application developed using Spring Boot to manage bookstore inventory efficiently. It enables users to view, add, edit, and delete books while ensuring seamless data management with a structured database. The system features a responsive UI for an intuitive user experience.
